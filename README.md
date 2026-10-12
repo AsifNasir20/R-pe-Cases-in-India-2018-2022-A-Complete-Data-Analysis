@@ -3,6 +3,7 @@
 A data-driven analysis of reported rape cases in India from 2018 to 2022, using SQL and Excel to examine state-wise patterns, Union Territory trends, minor-victim statistics, and case-verdict outcomes.
 
  📸 Dashboard / Analysis Preview
+  [View LinkedIn Project](https://lnkd.in/p/dwadY5PP)
 
 ![Rape Cases in India Data Analysis](YOUR-IMAGE-PATH)
 
